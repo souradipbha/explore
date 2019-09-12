@@ -1,0 +1,15 @@
+#Extended attributes for Eclipse file-based repository (directory: 'Decision Table Template')
+#Thu Sep 12 03:16:21 CDT 2019
+contentType=Template
+guid=4v2wlRDvxIXGqzaDRY1Bc1dGwGL
+innovatorDisplayName=Decision Table Template
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+subType=Decision Table
+target=SRL
+type=SRL Ruleset

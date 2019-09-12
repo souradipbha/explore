@@ -1,0 +1,17 @@
+#Extended attributes for Eclipse file-based repository (directory: 'startFunction')
+#Thu Sep 12 03:13:33 CDT 2019
+contentType=Fixed
+guid=CXzwhzpTbJ93Dva6eCwWxsEu3ZF
+innovatorDisplayName=startFunction
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+managementProperty.Test\ Case=
+managementProperty.Test\ Role=None
+subType=None
+target=SRL
+type=SRL Function
